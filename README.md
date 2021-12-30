@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Predictive and Intelligent Control & Real-Time Systems and Control
 - 📫 How to reach me - spinellj@mcmaster.ca
 
-- I don't use GitHub very often :)
+- I don't use GitHub very often, but I'll be using it a lot for my capstone project this year.
 
-<!---
-John-Spinelli/John-Spinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
